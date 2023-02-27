@@ -2,6 +2,7 @@
   "name": "qxcode-general-pack",
   "displayName": "QxCode - Extensões gerais para programação",
   "description": "Pacote de extensões recomendadas para programação em geral. Fornecido pela UFC Campus Quixadá.",
+  "publisher": "qxcode",
   "version": "0.0.1",
   "repository": {
     "type": "git",
