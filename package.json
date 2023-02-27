@@ -10,6 +10,9 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "publisher.extensionName"
+    "aaron-bond.better-comments",
+    "ExodiusStudios.comment-anchors",
+    "yzhang.markdown-all-in-one",
+    "MS-CEINTL.vscode-language-pack-pt-BR"
   ]
 }
