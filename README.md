@@ -1,16 +1,18 @@
-# qxcode-general-pack README
+# Pacote de extensões para programação em geral
 
-## Working with Markdown
+Este pacote de extensões consiste nas extensões recomendadas a serem usadas em qualquer contexto de programação para as disciplinas.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Extensões inclusas
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Better Comments ([aaron-bond.better-comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments))
+- Comment Anchors ([ExodiusStudios.comment-anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors))
+- Markdown All in One ([yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one))
+- Pacote de Idioma para Português Brasileiro ([MS-CEINTL.vscode-language-pack-pt-BR](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR))
 
-## For more information
+## Sobre os autores
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+O Projeto QxCode é um projeto informal organizado por professores de disciplinas relacionadas a programação no [Campus de Quixadá](https://www.quixada.ufc.br) da Universidade Federal do Ceará.
 
-**Enjoy!**
+### Colaboradores
+
+- Prof. Arthur Araruna
